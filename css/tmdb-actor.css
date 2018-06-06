@@ -1,0 +1,8 @@
+#movies-container article {
+    clear: both;
+}
+
+.entry-title a {
+    color: red;
+}
+
